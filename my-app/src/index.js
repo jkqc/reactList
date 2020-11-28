@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-// import App from './App';
-import App from './App1';
+// import App from './App';//JSX语法
+// import App from './App1';//组件
+import App from './App2';//setState的使用
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
