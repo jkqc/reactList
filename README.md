@@ -1,2 +1,2 @@
 # reactList
-主要用于学习react知识
+主要用于自己学习react知识
