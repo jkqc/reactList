@@ -1,7 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from '../logo.svg';
+import '../App.css';
 
-import SetStatePage from './components/SetState'
+import SetStatePage from '../components/SetState'
 function App() {
   return (
     <div className="App">

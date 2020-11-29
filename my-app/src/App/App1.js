@@ -1,8 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from '../logo.svg';
+import '../App.css';
 
-import ClassComponent from './components/class_func/ClassComponent'
-import FunctionComponent from './components/class_func/FunctionComponent'
+import ClassComponent from '../components/class_func/ClassComponent'
+import FunctionComponent from '../components/class_func/FunctionComponent'
 function App() {
   return (
     <div className="App">
